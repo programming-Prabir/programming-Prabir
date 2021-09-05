@@ -12,9 +12,9 @@ Skills: HTML, HTML5 || CSS, CSS3 || SASS || BOOTSTRAP - 4,5 // Learning - Javasc
 
 - 👨🏻‍🎓 I’m currently working on Learner 
 - 👩🏻‍💻 I’m currently learning Javascript 
-👁 I’m looking to collaborate on GitHub 
-🤝 I’m looking for help with Javascript 
-💬 Ask me about Html, Css, Sass, Bootstrap 
+- 👁 I’m looking to collaborate on GitHub 
+- 🤝 I’m looking for help with Javascript 
+- 💬 Ask me about Html, Css, Sass, Bootstrap 
 
 <!-- this link is github generator -->
 <!--      https://arturssmirnovs.github.io/github-profile-readme-generator/       -->
