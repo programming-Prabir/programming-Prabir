@@ -10,7 +10,7 @@ I love listening to music watching movies to get around cricket driving 🎵🎶
 
 Skills: HTML, HTML5 || CSS, CSS3 || SASS || BOOTSTRAP - 4,5 // Learning - Javascript 
 
-👨🏻‍🎓 I’m currently working on Learner 
+- 👨🏻‍🎓 I’m currently working on Learner 
 👩🏻‍💻 I’m currently learning Javascript 
 👁 I’m looking to collaborate on GitHub 
 🤝 I’m looking for help with Javascript 
