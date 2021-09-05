@@ -8,15 +8,6 @@ I want my web developer to encourage my neighborhood neighbors to study and help
 
 I love listening to music watching movies to get around cricket driving.
 
-My key skills are -
-HTML, HTML5
-CSS, CSS3
-BOOTSTRAP - 4,5
-SASS
-RESPONSIVE WEB DESIGN
-C PROGRAMMING LANGUAGE
-JAVASCRIPT learning
-
 Skills: HTML, HTML5 || CSS, CSS3 || SASS || BOOTSTRAP - 4,5 // Learning - Javascript
 
 - 🔭 I’m currently working on Learner 
