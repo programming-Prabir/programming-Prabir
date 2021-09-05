@@ -1,5 +1,5 @@
-### Hi there 👋, I am Prabir Manidas
-#### Learning Web Design and Development
+# Hi there 👋, I am Prabir Manidas
+## Learning Web Design and Development
 ![Learning Web Design and Development](https://pbs.twimg.com/profile_banners/1114524598404407297/1630825988/600x200)
 
 I am a student I am learning web design and development with a lot of heart. I help my classmates in this matter and they help me. I want to see myself as a successful web developer almost three years from today. I am very excited and that’s what I paid so much attention to.
