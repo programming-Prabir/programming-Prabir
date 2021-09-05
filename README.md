@@ -6,14 +6,14 @@ I am student 📚📗📖😍👨🏻‍🎓✍ learning web design and developm
 
 I want my web developer to encourage my neighborhood neighbors to study and help them become successful.
 
-I love listening to music watching movies to get around cricket driving 🎵🎶🚴🏻‍♀️🏻🏏📺🏍 .
+I love listening to music watching movies to get around cricket driving 🎵🎶🎧🚴🏻‍♀️🏻🏏📺🏍 .
 
 Skills: HTML, HTML5 || CSS, CSS3 || SASS || BOOTSTRAP - 4,5 // Learning - Javascript 
 
-- 🔭 I’m currently working on Learner 
+- 👨🏻‍🎓 I’m currently working on Learner 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with Javascript 
+- 🤝 I’m looking for help with Javascript 
 - 💬 Ask me about Html, Css, Sass, Bootstrap 
 
 
