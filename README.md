@@ -21,4 +21,5 @@ Skills: HTML, HTML5 || CSS, CSS3 || SASS || BOOTSTRAP - 4,5 // Learning - Javasc
 
 <!-- this link is github generator -->
 <!--      https://arturssmirnovs.github.io/github-profile-readme-generator/       -->
-
+<!--      https://rahuldkjain.github.io/gh-profile-readme-generator/              -->
+<!--      https://github.com/anuraghazra/github-readme-stats                      -->
