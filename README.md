@@ -1,5 +1,5 @@
 # Hi there 👋 I am Prabir Manidas
-## Web Design at Technofav
+## Web Designer at Technofav
 ### Aspiring Full Stack Web Developer & Programming 👩🏻‍💻🖥💻🖱📚📗📖
 ![Learning Web Design and Development](https://media-exp1.licdn.com/dms/image/C4D16AQEI-w4wFlb5ug/profile-displaybackgroundimage-shrink_200_800/0/1630908426484?e=1636588800&v=beta&t=lfXeoq5re57964tdGVp7wSw597n0N9nqQOUyUTWPzZo)
 
