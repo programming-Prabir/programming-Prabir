@@ -1,7 +1,6 @@
 # Hi there 👋 I am Prabir Manidas
 ## Web Designer at Technofav
 ### Aspiring Full Stack Web Developer & Programming 👩🏻‍💻🖥💻🖱📚📗📖
-![Learning Web Design and Development](https://www.linkedin.com/in/prabir-manidas/detail/background-image/)
 
 I am student 📚📗📖👨🏻‍🎓✍ learning web design and development with a lot of heart 🧡 . I help 🤝🏻 my classmates in this matter and they help me. I want to see myself as a successful web developer almost three years from today. I am very excited and that’s what I paid so much attention to.
 
